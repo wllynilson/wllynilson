@@ -1,4 +1,4 @@
-### Olá! Eu sou o Wllynilson (também conhecido como: Wlly, Willy, Nilson, Lenilson) 👋
+### Olá! Eu sou o Wllynilson (também conhecido como: Wlly, Will, Willy, Nilson, Lenilson) 👋
 
 - 🔭 Trabalha com Java.
 - 🌱 Estudando Angular e Typescript.
